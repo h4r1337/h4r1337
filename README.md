@@ -2,7 +2,7 @@
 
 -----------------------------------------------
 
-I am a student developer 
+I am a student and a python developer 
 
 - 👀 I’m interested in breaking things to secure them.
 - 🌱 I’m currently learning everything I like and playing CTFs
