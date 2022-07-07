@@ -7,7 +7,7 @@ A self proclaimed and self taught developer and security researcher.
 
 - 👀 I’m interested in breaking things to secure them.
 
-- 🌱 I’m learning CI/CD + Hugo + Discrete Math and playing CTFs
+- 🌱 I’m learning **CI/CD** + **Hugo** + **Discrete Math** and playing **CTFs**.
 
 ### GitHub Status:
 
