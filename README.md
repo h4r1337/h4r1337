@@ -11,7 +11,7 @@ A self proclaimed and self taught developer and security researcher.
 
 ### GitHub Status:
 
-[![h4r1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4r1337&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
+[![h4r1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4r1337&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=gruvbox&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 <p align="left">
