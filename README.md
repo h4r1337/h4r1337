@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @h4r1337
 
------------------------------------------------
 
 A self proclaimed and self taught developer and security researcher.
 
