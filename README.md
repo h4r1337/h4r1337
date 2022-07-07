@@ -3,10 +3,11 @@
 
 A self proclaimed and self taught developer and security researcher.
 
+- 🛠️  I'm working on my [website](https://h4r1337.github.io/).
 
 - 👀 I’m interested in breaking things to secure them.
 
-- 🌱 I’m learning everything I like and playing CTFs
+- 🌱 I’m learning CI/CD + Hugo + Discrete Math and playing CTFs
 
 ### GitHub Status:
 
