@@ -13,10 +13,8 @@ A self proclaimed and self taught developer and security researcher.
 
 [![h4r1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4r1337&custom_title=My%20Github%20Stat's&show_icons=true&theme=gruvbox&border_radius=10&hide_border=true&include_all_commits=true&count_private=true&bg_color=15,0d1117,282828)](https://github.com/anuraghazra/github-readme-stats)
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=h4r1337&width=820&bg=#121212"
-/>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=h4r1337&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+ 
 ![](https://github.com/FMCalisto/FMCalisto/blob/output/github-contribution-grid-snake.svg)
 
 ### Connect with me:
