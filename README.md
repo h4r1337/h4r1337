@@ -15,7 +15,6 @@ A self proclaimed and self taught developer and security researcher.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=h4r1337&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
  
-![](https://github.com/FMCalisto/FMCalisto/blob/output/github-contribution-grid-snake.svg)
 
 ### Connect with me:
 <p align="left">
