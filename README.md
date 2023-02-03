@@ -3,7 +3,7 @@
 
 A self proclaimed and self taught developer and security researcher.
 
-- 🛠️  I'm working on my [website](https://h4r1337.github.io/)(still under construction).
+- 🛠️  I'm working on my skills.
 
 - 👀 I’m interested in breaking things to secure them.
 
