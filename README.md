@@ -3,11 +3,11 @@
 
 A self proclaimed and self taught developer and security researcher.
 
-- 🛠️  I'm working on my skills.
+- 🛠️ Building random things that come to my mind from softwares using C to mobile apps using flutter and so on...
 
 - 👀 I’m interested in breaking things to secure them.
 
-- 🌱 I’m learning **Red Team Pentesting** and playing **CTFs**.
+- 🌱 I’m learning **Cloud Red Teaming** and playing **CTFs**.
 
 ### GitHub Status:
 
