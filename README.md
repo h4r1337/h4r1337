@@ -15,7 +15,12 @@ A self proclaimed and self taught developer and security researcher.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=h4r1337&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
  
-![GitHub Snake dark](https://github.com/h4r1337/h4r1337/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+<!-- ![GitHub Snake dark](https://github.com/h4r1337/h4r1337/blob/output/github-snake-dark.svg#gh-dark-mode-only) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ### Connect with me:
 <p align="left">
