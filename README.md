@@ -3,15 +3,13 @@
 
 A self proclaimed and self taught developer and security researcher.
 
-- 🛠️ Building random things that come to my mind from softwares using C to mobile apps using flutter and so on...
+- 🛠️ Building Team GhostSquad and playing CTF.
 
-- 👀 I’m interested in breaking things to secure them.
-
-- 🌱 I’m learning **Cloud Red Teaming** and playing **CTFs**.
+- 🌱 I’m learning **Golang** for a change.
 
 ### GitHub Status:
 
-![h4r1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4r1337&show_icons=true&theme=gruvbox&show_icons=true&include_all_commits=true)
+![h4r1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4r1337&show_icons=true&theme=gruvbox&show_icons=true&include_all_commits=true&custom_title="h4r1337's%20Github%20status")
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=h4r1337&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
  
