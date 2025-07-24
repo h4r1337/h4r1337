@@ -3,10 +3,6 @@
 
 A self proclaimed and self taught developer and security researcher.
 
-- 🛠️ Building Team GhostSquad and playing CTF.
-
-- 🌱 I’m learning **Golang** for a change.
-
 ### GitHub Status:
 
 ![h4r1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4r1337&show_icons=true&theme=gruvbox&show_icons=true&include_all_commits=true&custom_title=h4r1337's%20Github%20status)
